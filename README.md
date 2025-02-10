@@ -11,7 +11,7 @@ A passionate Junior Full Stack Developer from Poland.
 
 ## 🚀 Connect with me  
 📧 michalwisniewski2001@proton.me  
-📍 Warsaw / Remote  
+📍  Warsaw / Remote  
 💼 [GitHub](https://github.com/skrapi2011)  
 
 ---
