@@ -1,9 +1,9 @@
-<p align="center">
-# Michał Wiśniewski
+<h1 align="center">Hi 👋, I'm Michał!</h1>
 
-Hi 👋, I'm Michał!  
-A passionate Junior Full Stack Developer from Poland.
-</p>
+<h3 align="center">A passionate Junior Full Stack Developer from Poland.</h3>
+
+<br> 
+
 - 🎓 Currently studying **Computer Science** at the Polish-Japanese Academy of Information Technology.  
 - 🌱 I’m currently learning **.NET** and enhancing my skills in **Kotlin**, **React** and **Nodejs**.  
 - 🔭 Working on backend and mobile projects, including **Reservant**, a restaurant reservation platform.  
