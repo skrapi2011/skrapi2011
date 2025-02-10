@@ -11,8 +11,8 @@
 ---
 
 ## 🚀 Connect with me  
-📧 michalwisniewski2001@proton.me  
 📍  Warsaw / Remote  
+📧 michalwisniewski2001@proton.me  
 💼 [GitHub](https://github.com/skrapi2011)  
 
 ---
