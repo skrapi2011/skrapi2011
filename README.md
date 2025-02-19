@@ -41,15 +41,12 @@
 
 ### [Reservant | 2023-2025](https://github.com/Reservant-inc)  
 A comprehensive platform for restaurant reservations. It includes a mobile app and backend system for managing bookings, user data, and client interactions.
-<br> My roles in the project: 
--  Backend
--  Mobile App (Kotlin)
--  Selenium tests
-<br> This is a group thesis project made by group of 14 people during period of 2 years.
+<br> My roles in project includes: Backend, Mobile App, Selenium tests
+<br> This project was developed as a thesis project by a team of 14 people during period of 2 years.
 
 ### [Wordle Finder | 2024-2025](https://github.com/skrapi2011/wordleFinder)  
 A tool to solve Wordle puzzles by suggesting words based on known and excluded letters.  
 
 ---
 
-Feel free to reach out if you'd like to collaborate or just chat about tech!
+Feel free to reach out if you'd like to collaborate!
