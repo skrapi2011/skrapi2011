@@ -4,7 +4,7 @@
 
 <br> 
 
-- 🎓 Currently studying **Computer Science** at the Polish-Japanese Academy of Information Technology.  
+- 🎓 Graduate in **Computer Science** at the Polish-Japanese Academy of Information Technology.  
 - 🌱 I’m currently learning **.NET** and enhancing my skills in **Kotlin**, **React** and **Nodejs**.  
 - 🔭 Working on backend and mobile projects, including **Reservant**, a restaurant reservation platform.  
 
