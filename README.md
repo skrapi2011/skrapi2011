@@ -12,7 +12,7 @@
 
 ## 🚀 Connect with me  
 📧 michalwisniewski2001@proton.me  
-💼 [GitHub](https://github.com/skrapi2011)  
+💼 [LinkedIn](https://www.linkedin.com/in/micha%C5%82-wi%C5%9Bniewski-661b0b238/)
 
 ---
 
