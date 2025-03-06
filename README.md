@@ -44,7 +44,7 @@ A comprehensive platform for restaurant reservations. It includes a mobile app a
 <br> My roles in project includes: Backend, Mobile App, Selenium tests
 <br> This project was developed as a thesis project by a team of 14 people during period of 2 years.
 
-### [Perceptron Model](https://github.com/skrapi2011/perceptron-model)
+### [Perceptron Model | 2023](https://github.com/skrapi2011/perceptron-model)
 Java-based project that implements a perceptron from scratch to classify iris flowers based on features such as petal and sepal measurements. The algorithm employs a custom delta rule for weight adjustment and a threshold activation function, all developed without the use of external AI libraries.
 
 ### [Wordle Finder Web | 2025](https://github.com/skrapi2011/wordle-finder-web)
