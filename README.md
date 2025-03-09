@@ -53,6 +53,11 @@ Web-based application for solving Wordle puzzles by suggesting words based on kn
 ### [Wordle Finder | 2024-2025](https://github.com/skrapi2011/wordle-finder)  
 Desktop application for solving Wordle puzzles, developed in Java Swing. Provides an interactive UI and optimized word filtering algorithms to suggest possible solutions. Implements efficient string matching techniques to improve accuracy and performance.
 
+### [PC Builder App | 2024](https://github.com/your-username/pc-builder-app)
+Web application for creating and managing custom PC builds. Built with React and Flask (.NET in the future), featuring user authentication, role-based access control, and an intuitive interface for component selection. The project implements JWT authentication and SQLite database for data persistence.
+
+Currently under active development with planned features including English localization and component compatibility checking.
+
 ---
 
 Feel free to reach out if you'd like to collaborate!
