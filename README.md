@@ -48,7 +48,7 @@ A comprehensive platform for restaurant reservations. It includes a mobile app a
 Java-based project that implements a perceptron from scratch to classify iris flowers based on features such as petal and sepal measurements. The algorithm employs a custom delta rule for weight adjustment and a threshold activation function, all developed without the use of external AI libraries.
 
 ### [Wordle Finder Web | 2025](https://github.com/skrapi2011/wordle-finder-web)
-Web-based application for solving Wordle puzzles by suggesting words based on known and excluded letters. Built with JavaScript, HTML, and CSS, featuring an interactive UI for efficient word filtering.
+Web-based application for solving Wordle puzzles by suggesting words based on known and excluded letters. Built with JavaScript, HTML, and CSS, featuring an interactive UI for efficient word filtering. [Live on Github Pages!](https://skrapi2011.github.io/wordle-finder-web/)
 
 ### [Wordle Finder | 2024-2025](https://github.com/skrapi2011/wordle-finder)  
 Desktop application for solving Wordle puzzles, developed in Java Swing. Provides an interactive UI and optimized word filtering algorithms to suggest possible solutions. Implements efficient string matching techniques to improve accuracy and performance.
